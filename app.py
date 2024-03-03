@@ -12,3 +12,5 @@ def mult(a,b):
 
 def details():
     print("Hello this is details method")
+
+print("Hello we added one line")
