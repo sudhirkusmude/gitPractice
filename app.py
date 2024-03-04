@@ -14,3 +14,7 @@ def details():
     print("Hello this is details method")
 
 print("Hello we added one line")
+
+# Dvellopera 
+def display():
+    return "This is display method"
