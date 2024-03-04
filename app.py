@@ -20,3 +20,7 @@ def display():
     return "This is display method"
 def dis():
     return "Hello this is dis method"
+
+a = 10
+b=15
+c = a+b
